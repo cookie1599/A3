@@ -11,4 +11,4 @@ Ayu Amalia               >
 Muhammad Azhar Rasyad    > muhazharrasyad@gmail.com | https://github.com/mazharrasyad
 
 
-ⓒcopyright 2018, AAA
+ⓒcopyright 2018, A3
