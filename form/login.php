@@ -30,7 +30,8 @@
                         <label>Password</label>
                         <input type="password" class="form-control" placeholder="Contoh : ******">
                     </div>
-                    <button type="button" class="btn btn-primary btn-lg btn-block">Masuk</button>
+                    <a href="personal.php"><button type="button" class="btn btn-primary btn-lg btn-block">Masuk</button></a>
+                    <a href="../index.php"><button type="button" class="btn btn-success btn-lg btn-block mt-2">Batal</button></a>
                 </div>
             </div>
         </div>
