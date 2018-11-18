@@ -6,12 +6,12 @@
     
     <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-            <li><a href="login.php"><button class="btn btn-success my-2 my-sm-0 mr-3" type="button">Login</button></a></li>
-            <li><a href="perbandingan.php"></a><button class="btn btn-success my-2 my-sm-0 mr-3" type="button">Perbandingan</button></a></li>
-            <li><a href="peringkat.php"></a><button class="btn btn-success my-2 my-sm-0 mr-3" type="button">Peringkat</button></a></li>
+            <li><a href="login.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Login</button></a></li>
+            <li><a href="perbandingan.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Perbandingan</button></a></li>
+            <li><a href="peringkat.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Peringkat</button></a></li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-3" type="search" placeholder="Contoh : mazharrasyad" aria-label="Search">
+            <input class="form-control mr-sm-2" type="search" placeholder="Contoh : mazharrasyad" aria-label="Search">
             <button class="btn btn-success my-2 my-sm-0" type="submit">Cari Username</button>
         </form>
     </div>

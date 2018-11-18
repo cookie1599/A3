@@ -1,8 +1,8 @@
-<div class="modal fade" id="sifat_pendukung" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal fade" id="kemampuan" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
         <div class="modal-content">
         <div class="modal-header bg-dark">
-            <h5 class="modal-title" id="exampleModalLongTitle">Nilai Sifat Pendukung</h5>
+            <h5 class="modal-title" id="exampleModalLongTitle">Nilai Kemampuan</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
             </button>
@@ -10,13 +10,13 @@
         <div class="modal-body bg-success">                            
             <div class="input-group mb-4">
                 <div class="input-group-prepend">
-                    <label class="input-group-text bg-primary text-white" for="inputGroupSelect01">Sifat</label>
+                    <label class="input-group-text bg-primary text-white" for="inputGroupSelect01">Kemampuan</label>
                 </div>
                 <select class="custom-select" id="inputGroupSelect01">
                     <option selected>Choose...</option>
-                    <option value="1">Hemat</option>
-                    <option value="2">Rajin</option>
-                    <option value="3">Bijaksana</option>
+                    <option value="1">Programming</option>
+                    <option value="2">Memasak</option>
+                    <option value="3">Sepak Bola</option>
                     <option value="n">n</option>
                 </select>
             </div>
