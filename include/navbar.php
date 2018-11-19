@@ -12,7 +12,7 @@
         </ul>
         <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Contoh : mazharrasyad" aria-label="Search">
-            <a href="personal_lain.php"><button class="btn btn-success my-2 my-sm-0" type="submit">Cari Username</button></a>
+            <a href="personal_lain.php"><button class="btn btn-success my-2 my-sm-0" type="button">Cari Username</button></a>
         </form>
     </div>
 </nav>

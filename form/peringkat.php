@@ -3,9 +3,9 @@
 <?php include_once("../include/navbar.php"); ?>
 
 <div class="table-responsive">
-<table class="table-hover table-dark mt-4">
+<table class="table-hover table-light text-dark mt-4">
   <thead align="center">
-    <tr class="bg-danger">
+    <tr class="bg-danger text-white">
       <th scope="col" style="width: 10%; padding: 1%;">Peringkat</th>
       <th scope="col" style="width: 20%;">Personal</th>
       <th scope="col">Grafik</th>          
@@ -18,7 +18,7 @@
         <img src="../image/profile.png" style="width: 20%;"><br>
         Username 1
       </td>
-      <td>Grafik 1</td>
+      <td><div id="gsifat_utama"></div></td>
     </tr>
     <tr>
       <th>2</th>
@@ -26,17 +26,8 @@
         <img src="../image/profile.png" style="width: 20%;"><br>
         Username 2
       </td>
-      <td>Grafik 2</td>
+      <td><div id="ghsifat_utama"></td>
     </tr>
-    <tr>
-      <th>3</th>
-      <td>
-        <img src="../image/profile.png" style="width: 20%;"><br>
-        Username 3
-      </td>
-      <td>Grafik 3</td>
-    </tr>
-    <tr>
       <th>n</th>
       <td>
         <img src="../image/profile.png" style="width: 20%;"><br>
