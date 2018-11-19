@@ -22,11 +22,25 @@
         <div class="card-body">    
             <div class="row">
                 <div class="col">
-                        <button type="button" class="btn btn-success btn-lg btn-block mt-4" data-toggle="modal" data-target="#history">History</button>    
+                    <div class="row">
+                        <div class="col">
+                                <button type="button" class="btn btn-primary btn-lg btn-block mt-4" data-toggle="modal" data-target="#sifat_utama">Nilai Sifat Utama</button>
+                        </div>
+                        <div class="col">
+                            <button type="button" class="btn btn-primary btn-lg btn-block mt-4" data-toggle="modal" data-target="#sifat_pendukung">Nilai Sifat Pendukung</button>
+                        </div>
+                    </div>
                 </div>
-                <div class="col">
-                        <button type="button" class="btn btn-success btn-lg btn-block mt-4" data-toggle="modal" data-target="#penilaian">Penilaian Reviewer</button>
-                </div>
+                    <div class="col">
+                        <button type="button" class="btn btn-primary btn-lg btn-block mt-4" data-toggle="modal" data-target="#kemampuan">Nilai Kemampuan</button>
+                    </div>
+                <div class="w-100"></div>
+                    <div class="col">
+                            <button type="button" class="btn btn-success btn-lg btn-block mt-4" data-toggle="modal" data-target="#history">History</button>    
+                    </div>
+                    <div class="col">
+                            <button type="button" class="btn btn-success btn-lg btn-block mt-4" data-toggle="modal" data-target="#penilaian">Penilaian Reviewer</button>
+                    </div>
             </div>                                                                               
         </div>
         <div class="card-footer">

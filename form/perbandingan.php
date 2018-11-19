@@ -38,11 +38,11 @@
     </div>
 </div>
 
-<div class="card bg-info text-white p-4">
-    <div class="card text-white bg-danger">            
-        <div class="card-header ml-auto mr-auto"><h3>Membandingkan</h3></div>            
-        <div class="card-body ml-auto mr-auto">                
-            <p class="card-text">Grafik</p>
+<div class="card bg-info p-4">
+    <div class="card">            
+        <div class="card-header text-dark ml-auto mr-auto"><h3>Membandingkan</h3></div>            
+        <div class="card-body">                
+            <div id="gpsifat_utama"></div>
         </div>   
     </div>
 </div>

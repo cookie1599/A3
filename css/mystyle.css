@@ -1,5 +1,40 @@
-#kotak{
+#kotak {
     padding-top: 10%;
     padding-right: 10%; 
     padding-left: 10%;
-}        
+}      
+
+#gsifat_utama {
+    width: 100%;
+    min-height: 300px;
+}
+
+#gsifat_pendukung {
+    width: 100%;
+    min-height: 300px;
+}
+
+#gkemampuan {
+    width: 100%;
+    min-height: 300px;
+}
+
+#ghsifat_utama {
+    width: 100%;
+    min-height: 300px;
+}
+
+#ghsifat_pendukung {
+    width: 100%;
+    min-height: 300px;
+}
+
+#ghkemampuan {
+    width: 100%;
+    min-height: 300px;
+}
+
+#gpsifat_utama {
+    width: 100%;
+    min-height: 300px;
+}
