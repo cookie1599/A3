@@ -9,6 +9,7 @@
             <li><a href="login.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Login</button></a></li>
             <li><a href="perbandingan.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Perbandingan</button></a></li>
             <li><a href="peringkat.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Peringkat</button></a></li>
+            <li><a href="grup.php"><button class="btn btn-success my-2 my-sm-0 mr-2" type="button">Grup</button></a></li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Contoh : mazharrasyad" aria-label="Search">
