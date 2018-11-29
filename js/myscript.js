@@ -395,3 +395,131 @@ zingchart.render({
     height: '100%', 
     width: '100%' 
 });
+
+var radarConfig = {
+    type : 'radar',
+    plot : {
+        aspect : 'area',
+        animation: {
+            effect:3,
+            sequence:1,
+            speed:700
+        }
+    },
+    title: {
+        fontColor: "#8e99a9",
+        text: 'Sifat Utama',
+        align: "center",
+        offsetX: 10,
+        fontFamily: "Open Sans",
+        fontSize: 25,
+        padding : -5
+    },
+scaleV : {
+    visible : false
+},
+scaleK : {
+    values : '0:3:1',
+    labels : ['Shiddiq','Amanah','Tabligh','Fathanah'],
+    item : {
+        fontColor : '#607D8B',
+        backgroundColor : "white",
+        borderColor : "#aeaeae",
+        borderWidth : 1,
+        padding : '5 10',
+        borderRadius : 10
+    },
+    refLine : {
+        lineColor : '#c10000'
+    },
+    tick : {
+        lineColor : '#59869c',
+        lineWidth : 2,
+        lineStyle : 'dotted',
+        size : 15
+    },
+    guide : {
+        lineColor : "#607D8B",
+        lineStyle : 'solid',
+        alpha : 0.3,
+        backgroundColor : "#c5c5c5 #718eb4"
+    }
+},
+series : [
+        {
+            values : [59, 39, 38, 19]            
+        }
+    ]
+};
+
+zingchart.render({ 
+    id : 'gb1sifat_utama', 
+    data : radarConfig, 
+    height: '100%', 
+    width: '100%' 
+});
+
+var radarConfig = {
+    type : 'radar',
+    plot : {
+        aspect : 'area',
+        animation: {
+            effect:3,
+            sequence:1,
+            speed:700
+        }
+    },
+    title: {
+        fontColor: "#8e99a9",
+        text: 'Sifat Utama',
+        align: "center",
+        offsetX: 10,
+        fontFamily: "Open Sans",
+        fontSize: 25,
+        padding : -5
+    },
+scaleV : {
+    visible : false
+},
+scaleK : {
+    values : '0:3:1',
+    labels : ['Shiddiq','Amanah','Tabligh','Fathanah'],
+    item : {
+        fontColor : '#607D8B',
+        backgroundColor : "white",
+        borderColor : "#aeaeae",
+        borderWidth : 1,
+        padding : '5 10',
+        borderRadius : 10
+    },
+    refLine : {
+        lineColor : '#c10000'
+    },
+    tick : {
+        lineColor : '#59869c',
+        lineWidth : 2,
+        lineStyle : 'dotted',
+        size : 15
+    },
+    guide : {
+        lineColor : "#607D8B",
+        lineStyle : 'solid',
+        alpha : 0.3,
+        backgroundColor : "#c5c5c5 #718eb4"
+    }
+},
+series : [
+        {
+            values : [20, 20, 54, 41],
+            lineColor : '#53a534',
+            backgroundColor : '#689F38'
+        }
+    ]
+};
+
+zingchart.render({ 
+    id : 'gb2sifat_utama', 
+    data : radarConfig, 
+    height: '100%', 
+    width: '100%' 
+});

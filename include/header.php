@@ -9,4 +9,4 @@
 
     <title>Statistik Personal</title>
   </head>
-  <body class="bg-info text-white">
+  <body>

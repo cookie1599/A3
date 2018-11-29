@@ -15,7 +15,7 @@
     <tr>
       <th>1</th>
       <td>
-        <img src="../image/profile.png" style="width: 20%;"><br>
+        <img src="../img/profile.png" style="width: 20%;"><br>
         Username 1
       </td>
       <td><div id="gsifat_utama"></div></td>
@@ -23,14 +23,14 @@
     <tr>
       <th>2</th>
       <td>
-        <img src="../image/profile.png" style="width: 20%;"><br>
+        <img src="../img/profile.png" style="width: 20%;"><br>
         Username 2
       </td>
       <td><div id="ghsifat_utama"></td>
     </tr>
       <th>n</th>
       <td>
-        <img src="../image/profile.png" style="width: 20%;"><br>
+        <img src="../img/profile.png" style="width: 20%;"><br>
         Username n
       </td>
       <td>Grafik n</td>

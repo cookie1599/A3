@@ -1,8 +1,8 @@
 <?php include_once("../include/header.php"); ?>    
 
-<div class="bg-info text-white" id="kotak">
-    <h1 align="center" style="color: white;">Daftar Statistik Personal</h1>
-    <div class="card text-white bg-danger">                                            
+<div class="w-25 ml-auto mr-auto mt-5">
+    <h1 class="text-center mb-4">Daftar Statistik Personal</h1>
+    <div class="card text-white bg-dark">                                            
         <div class="card-body">                 
             <div class="form-group">
                 <label>Nomor Induk Kependudukan</label>

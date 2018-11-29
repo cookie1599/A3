@@ -5,7 +5,7 @@
 <div class="bg-info p-4 text-dark">
     <div class="card">            
         <div class="card-header ml-auto mr-auto"><h3>Username</h3></div>
-        <img class="card-img-top ml-auto mr-auto d-block" src="../image/profile.png" style="width: 20%;">
+        <img class="card-img-top ml-auto mr-auto d-block" src="../img/profile.png" style="width: 20%;">
         
         <div class="card-body">                
             <div class="row" style="height: 350px;">

@@ -1,5 +1,5 @@
 #kotak {
-    padding-top: 10%;
+    padding-top: 8%;
     padding-right: 10%; 
     padding-left: 10%;
 }      
@@ -35,6 +35,16 @@
 }
 
 #gpsifat_utama {
+    width: 100%;
+    min-height: 300px;
+}
+
+#gb1sifat_utama {
+    width: 100%;
+    min-height: 300px;
+}
+
+#gb2sifat_utama {
     width: 100%;
     min-height: 300px;
 }
