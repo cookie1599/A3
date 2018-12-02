@@ -11,20 +11,12 @@
         <div class="modal-body">                            
             <div class="input-group mb-2">
                 <div class="input-group-prepend">
-                    <label class="input-group-text bg-primary text-white" for="inputGroupSelect01">History Tanggal</label>
+                    <label class="input-group-text bg-primary text-white" for="inputGroupSelect01">Pilih Tanggal</label>
                 </div>
                 <input type="date" class="form-control">
             </div>
                 
-            <div class="row" style="height: 350px;">
-                <div class="col">
-                    <div id="ghsifat_utama"></div>
-                </div>
-                <div class="col">
-                    <div id="ghsifat_pendukung"></div>
-                </div>
-            </div>
-            <div id="ghkemampuan"></div>        
+            <div id="ghsifat_utama"></div>
 
         </div>            
 

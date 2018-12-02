@@ -38,7 +38,7 @@
 </div>
 
 <div class="container">
-  <p class="lead text-center text-secondary mb-4" style="font-size: 15px">Copyright &copy; 2018 - A3 - Jakarta Selatan - All Right Reserved</p>
+  <p class="lead text-center text-secondary mb-4" style="font-size: 15px">Copyright &copy; 2018 - A3 - Jakarta Selatan Indonesia - All Right Reserved</p>
 </div>
 
 <?php include_once("../include/footer.php"); ?>    

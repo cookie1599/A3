@@ -1,6 +1,6 @@
 <?php include_once("../include/header.php"); ?>                   
 
-<div class="w-25 ml-auto mr-auto mt-5">
+<div class="w-25 ml-auto mr-auto" style="margin-top: 7%;">
     <h1 class="text-center mb-4">Login</h1>
     <div class="card text-white bg-dark">                                            
         <div class="card-body">                 

@@ -2,9 +2,9 @@
   
 <?php include_once("../include/navbar.php"); ?>
 
-<div class="bg-info p-4 text-dark">
-    <div class="card">            
-        <div class="card-header ml-auto mr-auto"><h3>Username</h3></div>
+<div class="p-4">
+    <div class="card" style="border: 2px solid black">            
+        <div class="card-header bg-dark text-center text-white"><h3>Username</h3></div>
         <img class="card-img-top ml-auto mr-auto d-block" src="../img/profile.png" style="width: 20%;">
         
         <div class="card-body">                
@@ -40,10 +40,13 @@
                     </div>
                     <div class="col">
                             <button type="button" class="btn btn-success btn-lg btn-block mt-4" data-toggle="modal" data-target="#penilaian">Penilaian Reviewer</button>
-                    </div>
+                    </div>                
+                    <div class="col">
+                        <button type="button" class="btn btn-danger btn-lg btn-block mt-4" data-toggle="modal" data-target="#history">Laporkan</button>
+                    </div>                
             </div>                                                                               
         </div>
-        <div class="card-footer">
+        <div class="card-footer bg-dark text-white text-center">
             <small class="card-text"><h6>Jumlah Reviewer 10 dari Total Reviewer 250</h6></small>
         </div>
     </div>
